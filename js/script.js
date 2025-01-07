@@ -149,6 +149,14 @@
 					starty: 7
 				},
 				{
+					clue: "Tycho Brahe is credited for naming this phenomenon in which an apparently 'new' star appears and then fades away.",
+					answer: "nova",
+					position: 11,
+					orientation: "down",
+					startx: 8,
+					starty: 7
+				},
+				{
 					clue: "Botanist Robert Fortune introducted much flora from China to Europe, but arguable the most significant introduction he made was bringing these Chinese plants to India.",
 					answer: "tea",
 					position: 14,
