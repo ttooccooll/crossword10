@@ -85,7 +85,7 @@
 					starty: 10
 				},
 				{
-					clue: "Despite being primarily known for his work on gravity, calculus, and other disciplines, this scientist wrote over twice as much on theology as he did all scientific and mathematic disciplines combined.",
+					clue: "Despite being primarily known for his work on gravity, calculus, and other disciplines, this scientist wrote over twice as much on theology as he did all scientific and mathematic disciplines combined. This is what his friends might have called him.",
 					answer: "isaac",
 					position: 18,
 					orientation: "across",
@@ -117,7 +117,7 @@
 					starty: 1
 				},
 				{
-					clue: "Like the scientists mentioned in 1 and 18 across, this person is not primarily known for his work in optics, despite discovering the law of refraction. He is primarily known, not for science, but for the world's most popular philisophical one-liner.",
+					clue: "Like the scientists mentioned in 1 and 18 across, this person is not primarily known for his work in optics, despite discovering the law of reflection. He is primarily known, not for science, but for the world's most popular philisophical one-liner.",
 					answer: "descartes",
 					position: 4,
 					orientation: "down",
